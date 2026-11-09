@@ -4,8 +4,8 @@
 
 | 顺序 | 领域 | 中文主课/资料 | 学完必须做到 |
 |---|---|---|---|
-| 0 | 高中数学补缺 | [国家中小学智慧教育平台](https://basic.smartedu.cn/)（按函数、三角、指数对数查缺） | 熟练变形、函数图像、三角函数 |
-| 1 | 微积分 | [同济大学高等数学（一）](https://higher.smartedu.cn/course/647fb7fdce9f6f9021229512)、[高数（二）](https://www.chinaooc.com.cn/course/687ab83216c43a09c0d1b147) | 导数积分、多元偏导、链式法则，习题正确率≥80% |
+| 备查 | 高中数学定向回补 | [国家中小学智慧教育平台](https://basic.smartedu.cn/)（只按自检错题查函数、三角、指数对数） | 补齐当前极限题所需的具体先修点 |
+| 0 | 微积分 | [同济大学高等数学（一）](https://higher.smartedu.cn/course/647fb7fdce9f6f9021229512)、[高数（二）](https://www.chinaooc.com.cn/course/687ab83216c43a09c0d1b147) | 导数积分、多元偏导、链式法则，习题正确率≥80% |
 | 1 | 线性代数 | [同济大学线性代数学习指导](https://higher.smartedu.cn/course/69aa05aa95df98bb2796ee1a) | 矩阵、秩、特征值、投影、SVD概念 |
 | 1 | Python | [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)；[CS自学指南](https://csdiy.wiki/) | 自己写脚本、单元测试、NumPy数据分析 |
 | 1 | C语言 | [浙江大学翁恺C语言课程检索](https://www.icourse163.org/search.htm?search=%E7%BF%81%E6%81%BA%20C%E8%AF%AD%E8%A8%80) | 指针、数组、结构体、动态内存；实现链表 |
