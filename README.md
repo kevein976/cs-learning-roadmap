@@ -108,3 +108,15 @@
 2. 每个知识点都要有自己的实现、测试和总结。
 3. 不复制答案；先独立完成，再对照资料改进。
 4. 每周日复盘：本周完成、遇到的问题、下周计划。
+
+## 新增：个人学习知识库
+
+- [知识库总导航](LEARNING-KB/README.md)
+- [事实与待确认信息](LEARNING-KB/FACTS-AND-QUESTIONS.md)
+- [六周期末计划](LEARNING-KB/EXAM-6-WEEKS.md)
+- [雅思三个月计划](LEARNING-KB/IELTS-3-MONTHS.md)
+- [CMU MSML 2029 路线](LEARNING-KB/CMU-MSML-2029.md)
+- [B48TU + AI 科研路线](LEARNING-KB/B48TU-AI-RESEARCH.md)
+- [DeepTutor 使用说明](LEARNING-KB/DEEPTUTOR-SETUP.md)
+
+原有 CMU-AI-PLAN/ 内容保留，新的资料以 LEARNING-KB/ 为独立增量目录。
